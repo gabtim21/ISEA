@@ -1,0 +1,13 @@
+Lab 02 - ISEA - C15 A
+Alumno: LEÓN BEDOYA Gabtim David
+
+------------------------------------------
+
+Conclusiones:
+- Aprendimos a instalar diferentes modulos que nos proporciona Odoo.
+- Se logró identificar los principales modulos disponibles del ERP ODOO, y que tambien son los mas utilizados en las empresas.
+- Durante el proceso de la instalación de diferentes modulos se vio como automaticamente algunos de esos modulos instalan otros modulos que necesitan.
+- Se logró crear un modulo propio mediante linea de comandos, de windows y linux, y este se pudo visualizar en Odoo.
+- Para poder editar, actualizar u hacer otras cosas debemos ingresar como modo desarrollador.
+- Se logró editar el módulo creado, por medio de un editor de Texto, donde solo se cambio la descripción, la pagina web, entre otros.
+- El desarrollo del Laboratorio se realizo satisfactoriamente a pesar de que se pudo observar que la versión que se esta utilizando actualmente cambio varias cosas a la como era anteriormente.
