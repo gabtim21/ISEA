@@ -1,0 +1,14 @@
+Lab 03 - ISEA - C15 A
+Alumno: LEÓN BEDOYA Gabtim David
+
+------------------------------------------
+
+Conclusiones:
+- Se logró instalar el modulo CRM de Odoo.
+- Se realizo una configuración del CRM para un planificador de ventas, en donde se siguieron varios pasos.
+- Dentro del modulo CRM se visualizo la opción de clientes que se encuentra en el tablero del lado izquierdo, donde se creamos algunos clientes junto al contacto.
+- Tambien se logró crear equipo de ventas, donde se agregaron miembros del equipo y se designo un lider de tal.
+- Se logró instalar el modulo website Builder, este nos permite diseñar nuestro propio sitio web utilizando la herramienta de boostrap.
+- Se pudo instalar el modulo de contac form, donde se lleno el formulario de contactanos y este fue visualizado en las iniciativas y lo cual nosotros lo convertimos en una oportunidad.
+- Aprendimos a utilizar algunas herramientas del modulo CRM.
+- El desarrollo del Laboratorio de realizo satisfactoriamente siguiendo las indicaciones dadas en el documento proporcionado.
