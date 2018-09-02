@@ -1,0 +1,12 @@
+Lab 01 - ISEA - C15 A
+Alumno: LEÓN BEDOYA Gabtim David
+
+------------------------------------------
+
+Conclusiones:
+- Aprendimos que Odoo es un ERP, es un software en sí de gestión empresarial, con soluciones diferentes, ademas de ser de codigo abierto.
+- Para esta primera sesión de laboratorio se logró instalar Odoo, que se obtiene de la misma pagina pero la de Community.
+- Odoo esta disponible para ser instalado en Windows o Linux, para lo cual, se instalo en Windows y mediante una maquina Virtual con sistema operativo Linux tambien se realizo la instalación.
+- Se conoció el entorno de Odoo, el proceso de instalación tanto en Windows como Linux, viendo ya a futuro que puede darse el caso que una empresa trabaje con S.O Linux o Windows, por eso se realizaron ambas instalaciónes, para poder saber más.
+- Se logró instalar pgAdmin para poder visualizar el estado de la base de datos en Odoo y realizar la conexión.
+- El desarrollo del Laboratorio se realizo satisfactoriamente, siguiendo cada uno de los pasos indicados.
