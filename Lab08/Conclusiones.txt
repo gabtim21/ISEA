@@ -1,0 +1,46 @@
+Lab 08 - ISEA - C15 A
+Alumno: LEÓN BEDOYA Gabtim David
+
+------------------------------------------
+
+2.1 Empresa ACME con logo de Tecsup y datos regionales:
+	- Datos_Empresa.PNG
+	- Verificación_de_datps.PNG
+
+2.2 Modificación de plantilla pedido de compras y generación de dicho aporte:
+	- Plantilla_reporte.PNG
+	- Purchase Order - PO00002 (1).pdf
+
+2.3 Generar 5 ventas en el módulo Ventas:
+	- Instalar_gestion_ventas.PNG
+	- Generar_Ventas.PNG
+	- Ventas_1.PNG
+	- Ventas.PNG
+	- registra_venta.gif
+
+2.4 Realizar la entrega parcial de 2 ventas:
+	- Entregas_parciales.PNG
+	- Entregas.PNG
+
+2.5 Cobrar a clientes:
+	- Clientes.PNG
+	- Creación_de_facturas.PNG
+	- Pagos.PNG
+	- Cobranzas.PNG
+	- Falta_pagar.PNG
+	- registra_pago.gif
+
+2.6 Instalar el modulo CRM:
+	- Instalación_CRM.PNG
+	- Módulo_CRM.PNG
+	- Oportunidades.PNG
+
+CONCLUSIONES:
+- Se acutlizaron los datos de la empresa, junto con el logo y se realizo la verificación de que los datos se guarden.
+- Se logró generar reporte de las compras realizadas y aprendimos en donde editar mediante lineas de codigo, la plantilla que se utiliza.
+- Para generar las ventas se tuvo que instalar un módulo de ventas diferente al de punto de ventas.
+- En el módulo de ventas se generaron 5 ventas donde tambien se lograron crear 3 Clientes, al realizar un venta se puede imprimir o enviar por email, de tal modo de que se puedan visualizar y poder verificar que lo que se realice sea correcto.
+- Se logró generar las entregar parciales de la ventas realizadas.
+- Aprendimos a generar una factura y a tambien a cobrar a los clientes que obtendrian los productos.
+- Se logró instalar el modulo de CRM, este instala otros modulos, terminando la instalación se pudieron crear 3 oportunidades.
+- El desarrollo del laboratorio se realizo satisfactoriamente siguien los indicaciones dadas.
