@@ -1,0 +1,62 @@
+Lab 03 - ISEA - C15 A
+Alumno: LEÓN BEDOYA Gabtim David
+
+------------------------------------------
+
+Ejercicios:
+
+2.1 Base de datos limpia:
+	- Creacion_database.PNG
+
+2.2 Logo de Tecsup:
+	- Modulos.PNG
+	- Logo-Tecsup-png
+
+2.3 Creación de 30 Productos Tecnologicos:
+	- Importación.PNG
+	- Importacion-productos.PNG
+	- Productos.PNG
+	- productos.csv
+
+2.4 Ajuste de Inventario para cada uno de los productos:
+	- ajuste-inventario.PNG
+	- verificacion.PNG
+	- verificacion-1.PNG
+
+2.5 Instalar el Punto de Venta y agregar medio de pago VISA:
+	- Metodo_pago.PNG
+	- Pago_VISA.PNG
+
+2.6 Realización de 15 Ventas:
+	- Creando_nueva_sesión.PNG
+	- Realizando_pedido.PNG
+	- Recibo_del_pedido.PNG
+	- 15Pedidos.PNG
+
+2.7 Instalación de modulo de compras y realización de 5 compras de tres proveedores:
+	- Modulo_compras.PNG
+	- Proveedor1.PNG
+	- Proveedor2.PNG
+	- Proveedor3.PNG
+
+2.8 Recepción de 2 Compras y las demás en stock:
+	- recepciones.PNG
+	- Recepciones1.PNG
+	- Recepciones2.PNG
+	- Recepciones3.PNG
+	- recepcion-validada.PNG
+
+2.9 Pagar a los proveedores:
+	- Factura.PNG
+	- Factura-faltapagar.PNG
+	- Facturas1.PNG
+
+CONCLUSIONES:
+
+- Se aprendio o como acceder mediante la URL y poder crear una nueva base de datos en blanco.
+- Se lograrón instalar los modulos de Gestión de Inventario, Punto de ventas y Gestión de compras.
+- Se aprendio a crear productos en el modulo de inventario instalado, como tambien a importar de golpe varios productos y exportar los productos en formato .csv , así podemos agilizar la creación de varios productos en vez de estar creando uno por uno.
+- Se logró realizar ventas, con el modulo punto de ventas, donde se mostro una interface de cajeron, en el cual se selecciona el producto y con cuanto se esta pagando e imprime un recibo de la venta realizada, tambien puede realizar diferentes funciones como descuentos o precios especiales.
+- Se vio como se envia emails a los proveedores de lo que se esta comprando o solicitando.
+- Aprendimos a crear facturas de pago para cada uno de los proveedores creados.
+- El laboratorio se desarrollo satisfactoriamente siguiendo los pasos dados por el profesor por medio de videos de YouTube.
