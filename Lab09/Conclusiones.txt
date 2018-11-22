@@ -1,0 +1,54 @@
+Lab 09 - ISEA - C15 A
+Alumno: LEÓN BEDOYA Gabtim David
+
+------------------------------------------
+
+2.1 Iniciar en modo consola:
+	- 2.1.Iniciando Consola.PNG
+	- 2.1.Odoo Iniciado.PNG
+	- inicio_consola.gif
+
+2.2 Agregar carpeta módulos de terceros:
+	- 2.2.Modulos de terceros.PNG
+
+2.3 Descargar e instalar modulo web_login:
+	- 2.3.Descargar modulo.PNG
+	- 2.3.Instalar Modulo.PNG
+	- 2.3.Modulo web_login.PNG
+	- 2.3.Modulo.PNG
+
+2.4 Descargar e instalar un tema:
+	- 2.4.Theme download.PNG
+	- 2.4.Instalado.PNG
+	- 2.4.Modulo Backend.PNG
+
+2.5 Modulo que genere reporte en Excel:
+	- 2.5.Instalar Modulo.PNG
+	- 2.5.Modulo Excel.PNG
+	- 2.5.Generar reporte1.PNG
+	- 2.5.Generar reporte2.PNG
+	- 2.5.Generar reporte3.PNG
+	- 2.5.Generar reporte4.PNG
+	- 2.5.Generar reporte5.PNG
+	- 2.5.Generar reporte6.PNG
+
+2.6 Ubiegos de Perú:
+	- 2.6.Modulo de Ubigeos.PNG
+	- 2.6.Modulo de Ubigeos_Verificacion.PNG
+	- 2.6.Modulo Instalado.PNG
+	- 2.6.Modulos en carpeta.PNG
+
+
+CONCLUSIONES:
+
+	- Para poder inicar por consola a Odoo, se tuvo que detener el servicio de odoo ya que siempre se mantiene iniciado, ya que manualmente lo iniciamos mediante consola haciendo referencia a python y a odoo-bin.
+
+	- Se añadio en el odoo-conf una ruta donde se colocaras los modulos de terceros, es decir lo que descargaremos.
+
+	- Aprendimos a instalar modulos, los cuales descargamos de la pagina de Odoo gratuitamente.
+
+	- Al momento de agregar el modulo en la carpeta creada previamente, se tiene que reiniciar por medio de consola, luego actualizamos las aplicaciones en odoo, asi los cambios añadidos se mostraran, es decir los modulos agregados.
+
+	- Odoo nos da una gran cantidad de modulos los cuales los podemos utilizar y añadir a nuestros proyectos como tambien modificarlos o adaptarlos a lo que nosotros necesitamos.
+
+	- Se logró realizar el laboratoriamente siguiendo las indicaciones y videos como material.
