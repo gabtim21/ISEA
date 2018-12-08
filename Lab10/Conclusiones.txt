@@ -1,0 +1,14 @@
+Lab 10 - ISEA - C15 A
+Alumno: LEÓN BEDOYA Gabtim David
+
+------------------------------------------
+
+1. Se creo un nuevo modulo desde cero, mediante consola, y la instalamos en nuestra base de datos en la cual venimos trabajando.
+
+2. Se lograron crear las realaciones entre los modelos definidos, las cuales son one2one, many2many, one2many, y many2one.
+
+3. Se crearon la diferentes vistas para los formularios de curso, en este se modificaron algunas cosas, para el formulario de sesiones y de instructores.
+
+4. Se aprendio a heredar uno de los modelos que posee Odoo, en donde agregamos campos y tambien se agrego una vista.
+
+5. Se logró desarrollar satisfactoriamente el Laboratorio siguiendo los videos Tutoriales dados por el profesor, ya que nos sirve de una guía para mas adelante.
