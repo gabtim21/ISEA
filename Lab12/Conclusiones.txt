@@ -1,0 +1,16 @@
+Lab 12 - ISEA - C15 A
+Alumno: LEÓN BEDOYA Gabtim David
+
+------------------------------------------
+
+2.1. Grupo de permisos para el módulo OpenAcademy.
+	- 2.1Permisos.PNG
+	- 2.1CambiarContraseña.PNG
+	- 2.1IniciarSesión.PNG
+	- 2.1VerificacionDePermisos.PNG
+
+2.2. Listado de Cursos.
+	- 2.2ListarCursosWeb.PNG
+
+2.3. Listado de Sesiones.
+	- 2.3ListarSesiones.gif
