@@ -1,0 +1,23 @@
+Lab 11 - 12 - ISEA - C15 A
+Alumno: LEÓN BEDOYA Gabtim David
+
+------------------------------------------
+
+2.1. Agregando decoradores en las vistas de Lista.
+	- 2.VistaDecorada.PNG
+	
+2.2. Agregando vista calendario.
+	- 2.2Vista.PNG
+	- 2.2VistaCalendar.PNG
+	- 2.2VistaCalendario.PNG
+
+2.3. Agregando vista Kanban.
+	- 2.3VistaKanban.PNG
+
+2.4. Agregando filtro de búsqueda.
+	- 2.4Busqueda.PNG
+	
+2.5. Agregando vista Reporte.
+	- 4.5GenerarReporte.PNG
+	- 2.5GenerarReporte1.PNG
+	- 2.5GenerarReporte2.PNG
